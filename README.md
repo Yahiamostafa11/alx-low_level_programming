@@ -1,1 +1,2 @@
-0x0F. C - Function pointers
+0x0E. C - Structures, typedef
+
